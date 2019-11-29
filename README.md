@@ -1,5 +1,4 @@
 # Optimal-Matching-Ratio
-Investigates the optimization of matching ratio (M = 1, M = 2, M=3, ...) for (genetic) matching for causal inference
 
 As of now, it seems most data scientists use M = 1 as a default and a starting point for matching, under the assumption that it usually provides the best balance on covariates.  However, this may not always be the case.  We will seek to explore scenarios where one-to-multiple matching provides better balance (than one-to-one matching)—and, by nature, a larger sample size—by coming up with our own very small fake data set(s). 
 
