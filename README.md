@@ -7,5 +7,7 @@ Specifically, we hope to address the question: what is the optimal matching rati
 Does the MatchBalance function validate and reward effectively (i.e. produce a higher minimum p-value for) increased balance thanks to multiple matches?  Or does it discredit this better balance because of the weights on the matches?  Based on our experimentation, we aim to address implications and consider potential algorithmic implementation to address the case scenarios we explored and generally find the optimal value for M to achieve maximum balance.
 
 Our exploration and findings are presented in two blog posts on Towards Data Science:
+
 (1) https://towardsdatascience.com/matching-koalas-on-fire-part-1-17691bb85c23
+
 (2) https://towardsdatascience.com/matching-koalas-on-fire-part-2-71083b81b50b
